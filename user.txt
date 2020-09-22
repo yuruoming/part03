@@ -3,3 +3,5 @@ haha
 wobuhao
 注册模块
 激活码实现功能
+
+修复登陆的bug
